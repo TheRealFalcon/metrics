@@ -3,6 +3,7 @@ gitpython
 google-api-python-client
 httplib2
 influxdb
+launchpadlib
 prometheus_client
 psycopg2
 requests
